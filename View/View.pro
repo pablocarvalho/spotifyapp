@@ -71,8 +71,7 @@ LIBS += -lmodel
 INCLUDEPATH += ../model
 DEPENDPATH += $$PWD/../model
 
-DISTFILES += \
-    player.html
+DISTFILES +=
 
 RESOURCES += \
     resources.qrc
