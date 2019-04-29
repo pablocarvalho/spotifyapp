@@ -6,6 +6,7 @@
 *.la
 *.lai
 *.so
+*.so*
 *.dll
 *.dylib
 
@@ -41,3 +42,5 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+
+View/data
