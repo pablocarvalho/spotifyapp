@@ -9,7 +9,7 @@ application to edit playlists and listen to samples locally
 
 GCC/G++ 5.4
 
-### Using Instructions
+### Usage Instructions
 
 To search for tracks use the text field on top of the screen and press search.
 
